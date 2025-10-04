@@ -4,6 +4,14 @@ This project is a deep learning image classifier that distinguishes between cats
 It uses TensorFlow for model building and training, and Gradio for an interactive web interface to make predictions.
 
 ---
+## 🔗 Live Demo (Temporary Gradio Link)
+
+Try the model here:
+
+👉 Running on public URL: https://82557091efb184c8c8.gradio.live
+
+> ⚠️ This link is **temporary** and will expire after 1 week.  
+> To get a new link, open the Colab notebook and run the last cell again.
 
 ## 📁 Dataset
 
